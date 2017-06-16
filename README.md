@@ -6,7 +6,7 @@ This program will tell you what type of file it is, no matter what the extension
 Within a few bytes of this image file you will find information about the nature of the file.
 
 # References:
- http://www.faqs.org/faqs/jpeg-faq/part1/section-15.html
- http://www.libpng.org/pub/png/spec/1.2/PNG-Rationale.html#R.PNG-file-signature
- http://www.w3.org/Graphics/GIF/spec-gif89a.txt
+ http://www.faqs.org/faqs/jpeg-faq/part1/section-15.html </br>
+ http://www.libpng.org/pub/png/spec/1.2/PNG-Rationale.html#R.PNG-file-signature </br>
+ http://www.w3.org/Graphics/GIF/spec-gif89a.txt </br>
  https://www.loc.gov/preservation/digital/formats/fdd/fdd000189.shtml
